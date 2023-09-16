@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Movie-Cart-App/static/css/main.9ee7159c.css",
+    "main.js": "/React-Movie-Cart-App/static/js/main.6d0b0eb9.js",
+    "index.html": "/React-Movie-Cart-App/index.html",
+    "main.9ee7159c.css.map": "/React-Movie-Cart-App/static/css/main.9ee7159c.css.map",
+    "main.6d0b0eb9.js.map": "/React-Movie-Cart-App/static/js/main.6d0b0eb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ee7159c.css",
+    "static/js/main.6d0b0eb9.js"
+  ]
+}
