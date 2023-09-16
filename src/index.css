@@ -128,3 +128,12 @@ body {
     text-shadow: none;
     margin: 5px;
   }
+
+.nav{
+    background:#49aeef ;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    width: 100%;
+    
+}
